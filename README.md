@@ -28,6 +28,7 @@ I enjoy building clean, user-focused web applications and continuously improving
 - **Other Interests:** Embedded Systems, IoT, Circuit Design
 
 ---
+<img width="1246" height="583" alt="Screenshot 2026-01-24 212449" src="https://github.com/user-attachments/assets/3c218bb7-2135-4390-a89b-dee18009ca26" />
 
 ## ✨ Features
 
@@ -61,4 +62,8 @@ cd portfolio
 
 Open index.html in your browser
 (or use Live Server in VS Code)
+
+
+https://github.com/user-attachments/assets/aba3b4c3-9188-40ef-8e5c-f4300107967d
+
 
