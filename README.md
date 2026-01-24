@@ -1,7 +1,7 @@
 # 🌐 Balaji Sudhan – Developer Portfolio
 
 <p align="center">
-  <img src="downloads/demo.png" alt="Portfolio Demo" width="900">
+  <img src="images/demo.png" alt="Portfolio Demo" width="900">
 </p>
 
 A modern, responsive **developer portfolio website** showcasing my projects, skills, and journey as a **Full-Stack Developer and Electronics & Communication Engineering student**.
