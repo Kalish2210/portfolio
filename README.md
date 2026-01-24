@@ -52,6 +52,10 @@ I enjoy building clean, user-focused web applications and continuously improving
 git clone https://github.com/Kalish2210/portfolio.git
 Navigate into the project directory:
 
+
+https://github.com/user-attachments/assets/7d0f298d-5d22-4a71-8174-97ab483498ae
+
+
 cd portfolio
 
 
